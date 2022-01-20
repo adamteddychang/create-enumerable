@@ -16,7 +16,7 @@ To get a local copy up and running follow these simple example steps.
 
 Clone the project by using terminal:
 
-```
+
 git clone https://github.com/adamteddychang/create-enumerable.git
 
 ### Prerequisites
