@@ -1,8 +1,4 @@
 module MyEnumerable
-  def self.included(klass)
-    klass.singleton_class.send(:attr_reader, :list)
-  end
-
   def all?
     @list.each do |val|
       return true unless block_given?
