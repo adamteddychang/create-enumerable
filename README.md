@@ -19,12 +19,6 @@ Clone the project by using terminal:
 ```
 git clone https://github.com/adamteddychang/create-enumerable.git
 
-
-
-```
-
-
-
 ### Prerequisites
 
 -Ruby
